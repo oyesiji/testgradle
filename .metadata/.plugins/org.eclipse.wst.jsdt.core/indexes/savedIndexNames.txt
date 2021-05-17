@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\workspaces\fiscal3\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4049436756.index
+2823508461.index
+399523350.index
+444144527.index
+305446040.index
+1940430389.index
