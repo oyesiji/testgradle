@@ -4,6 +4,8 @@
 	<comment></comment>
 	<projects>
 		<project>testing</project>
+		<project>testEJB</project>
+		<project>testEJBClient</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

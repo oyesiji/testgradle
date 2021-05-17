@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.jst.j2ee.commonarchivecore.looseconfig:LooseArchive xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.jst.j2ee.commonarchivecore.looseconfig="commonarchive.looseconfig.xmi" uri="C:\workspaces\fiscal3\testingEAR" binariesPath="C:\workspaces\fiscal3\testingEAR" resourcesPath="C:\workspaces\fiscal3\testingEAR" archiveType="EAR">
   <looseChildren uri="testing.war" binariesPath="C:\workspaces\fiscal3\testing\WebContent" resourcesPath="C:\workspaces\fiscal3\testing\WebContent" archiveType="WAR"/>
+  <looseChildren uri="testEJB.jar" binariesPath="C:\workspaces\fiscal3\testEJB\build\classes" resourcesPath="C:\workspaces\fiscal3\testEJB\build\classes" archiveType="EJBJAR"/>
+  <looseChildren uri="testEJBClient.jar" binariesPath="C:\workspaces\fiscal3\testEJBClient\build\classes" resourcesPath="C:\workspaces\fiscal3\testEJBClient\build\classes" archiveType="SIMPLEJAR"/>
 </org.eclipse.jst.j2ee.commonarchivecore.looseconfig:LooseArchive>

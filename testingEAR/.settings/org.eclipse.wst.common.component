@@ -5,5 +5,12 @@
             <dependent-object>Module_1621246706095</dependent-object>
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="testEJB.jar" deploy-path="/" handle="module:/resource/testEJB/testEJB">
+            <dependent-object>Module_1621247896662</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="testEJBClient.jar" deploy-path="/" handle="module:/resource/testEJBClient/testEJBClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
     </wb-module>
 </project-modules>

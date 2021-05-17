@@ -9,13 +9,17 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/testingEAR" type="4"/>
 </workingSet>
 <workingSet editPageId="com.ibm.etools.j2ee.ui.AppClientWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621246658891_6" label="Application Client Projects" name="AppClientWorkingSetPage.name"/>
-<workingSet editPageId="com.ibm.etools.j2ee.ui.EjbWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621246658904_7" label="EJB Projects" name="EjbWorkingSetPage.name"/>
+<workingSet editPageId="com.ibm.etools.j2ee.ui.EjbWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621246658904_7" label="EJB Projects" name="EjbWorkingSetPage.name">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/testEJB" type="4"/>
+</workingSet>
 <workingSet editPageId="com.ibm.etools.j2ee.ui.ConnectorWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621246658920_8" label="Connector Projects" name="ConnectorWorkingSetPage.name"/>
 <workingSet editPageId="com.ibm.etools.j2ee.ui.WebWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621246658937_9" label="Web Projects" name="NewWebWorkingSetPage.name">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/testing" type="4"/>
 </workingSet>
 <workingSet editPageId="com.ibm.etools.j2ee.ui.JPAWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621246658953_10" label="JPA Projects" name="JPAWorkingSet.name"/>
-<workingSet editPageId="com.ibm.etools.j2ee.ui.UtilWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621246658970_11" label="Utility Projects" name="WS_UTIL"/>
+<workingSet editPageId="com.ibm.etools.j2ee.ui.UtilWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621246658970_11" label="Utility Projects" name="WS_UTIL">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/testEJBClient" type="4"/>
+</workingSet>
 <workingSet editPageId="com.ibm.etools.j2ee.ui.WebFragmentWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621246658988_12" label="Web Fragment Projects" name="WebFragmentWorkingSetPage.name"/>
 <workingSet editPageId="com.ibm.etools.project.OthersWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621246659006_13" label="Uncategorized Projects" name="OthersWorkingSet.name"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621246659150_14" label="Multiple Working Sets" name="Aggregate:OSGi Bundle Projects:OSGi Fragment Bundle Projects:OSGi Application Projects:OSGi Composite Bundle Projects:Liberty Feature Projects:EARWorkingSetPage.name:AppClientWorkingSetPage.name:EjbWorkingSetPage.name:ConnectorWorkingSetPage.name:NewWebWorkingSetPage.name:JPAWorkingSet.name:WS_UTIL:WebFragmentWorkingSetPage.name:OthersWorkingSet.name:">

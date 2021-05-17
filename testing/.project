@@ -3,6 +3,7 @@
 	<name>testing</name>
 	<comment></comment>
 	<projects>
+		<project>testEJBClient</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

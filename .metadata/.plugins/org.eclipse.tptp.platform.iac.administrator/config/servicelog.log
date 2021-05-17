@@ -1,0 +1,6 @@
+<CommonBaseEvent creationTime="2021-05-17T10:32:53.351000Z" globalInstanceId="A987B0EDF1A64C83AC937CF3D61F9C89" msg="Native file server started listening on port 10005" severity="10" version="1.0.1">
+	<sourceComponentId component="AgentController" componentIdType="TPTPComponent" executionEnvironment="ClientCTL.c, line 672" instanceId="1004" location="WINDOWS-8L3VVC3" locationType="IPV4" processId="11292" subComponent="Client Compatibility TL" threadId="16572" componentType="Eclipse_TPTP"/>
+	<situation categoryName="ReportSituation">
+		<situationType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ReportSituation" reasoningScope="INTERNAL" reportCategory="LOG"/>
+	</situation>
+</CommonBaseEvent>

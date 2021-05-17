@@ -1,2 +1,4 @@
-#Mon May 17 06:33:12 EDT 2021
+#Mon May 17 06:46:51 EDT 2021
+testingEAR/testEJB=testEJB.jar
 testingEAR/testing=testing.war
+testingEAR/testEJBClient=testEJBClient.jar
