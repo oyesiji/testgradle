@@ -33,3 +33,6 @@ java.lang.NoClassDefFoundError: org.eclipse.wst.validation.internal.ValBuilderJo
 	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:122)
 	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.wst.server.core 4 0 2021-05-17 06:26:51.274
+!MESSAGE Server WebSphere Application Server traditional V9.0 at localhost was unable to start within 300 seconds. If the server requires more time, try increasing the timeout in the server editor.
