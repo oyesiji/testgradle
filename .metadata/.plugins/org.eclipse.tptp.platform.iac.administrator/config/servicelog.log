@@ -4,3 +4,9 @@
 		<situationType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ReportSituation" reasoningScope="INTERNAL" reportCategory="LOG"/>
 	</situation>
 </CommonBaseEvent>
+<CommonBaseEvent creationTime="2021-05-17T11:02:20.755000Z" globalInstanceId="ABADFB95C4B1441C924CB2BD38BE2A75" msg="Agent Controller shutdown requested through ACTL" severity="30" version="1.0.1">
+	<sourceComponentId component="AgentController" componentIdType="TPTPComponent" executionEnvironment="ACTLServer.c, line 376" instanceId="1005" location="WINDOWS-8L3VVC3" locationType="IPV4" processId="11292" subComponent="Agent Compatibility TL" threadId="3872" componentType="Eclipse_TPTP"/>
+	<situation categoryName="ReportSituation">
+		<situationType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ReportSituation" reasoningScope="INTERNAL" reportCategory="LOG"/>
+	</situation>
+</CommonBaseEvent>
